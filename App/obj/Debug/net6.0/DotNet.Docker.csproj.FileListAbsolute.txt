@@ -1,0 +1,15 @@
+C:\01_ENTORNO\AZURE\app.Net\App\bin\Debug\net6.0\DotNet.Docker.exe
+C:\01_ENTORNO\AZURE\app.Net\App\bin\Debug\net6.0\DotNet.Docker.deps.json
+C:\01_ENTORNO\AZURE\app.Net\App\bin\Debug\net6.0\DotNet.Docker.runtimeconfig.json
+C:\01_ENTORNO\AZURE\app.Net\App\bin\Debug\net6.0\DotNet.Docker.dll
+C:\01_ENTORNO\AZURE\app.Net\App\bin\Debug\net6.0\DotNet.Docker.pdb
+C:\01_ENTORNO\AZURE\app.Net\App\obj\Debug\net6.0\DotNet.Docker.csproj.AssemblyReference.cache
+C:\01_ENTORNO\AZURE\app.Net\App\obj\Debug\net6.0\DotNet.Docker.GeneratedMSBuildEditorConfig.editorconfig
+C:\01_ENTORNO\AZURE\app.Net\App\obj\Debug\net6.0\DotNet.Docker.AssemblyInfoInputs.cache
+C:\01_ENTORNO\AZURE\app.Net\App\obj\Debug\net6.0\DotNet.Docker.AssemblyInfo.cs
+C:\01_ENTORNO\AZURE\app.Net\App\obj\Debug\net6.0\DotNet.Docker.csproj.CoreCompileInputs.cache
+C:\01_ENTORNO\AZURE\app.Net\App\obj\Debug\net6.0\DotNet.Docker.dll
+C:\01_ENTORNO\AZURE\app.Net\App\obj\Debug\net6.0\refint\DotNet.Docker.dll
+C:\01_ENTORNO\AZURE\app.Net\App\obj\Debug\net6.0\DotNet.Docker.pdb
+C:\01_ENTORNO\AZURE\app.Net\App\obj\Debug\net6.0\DotNet.Docker.genruntimeconfig.cache
+C:\01_ENTORNO\AZURE\app.Net\App\obj\Debug\net6.0\ref\DotNet.Docker.dll

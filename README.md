@@ -1,2 +1,0 @@
-# app.Net
-Aplicación .NET
